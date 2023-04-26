@@ -1,0 +1,12 @@
+.search{
+    
+    margin-inline: auto;
+    width: 55%;
+    height: 100%;
+    margin-top: 20vh;
+    background-color: rgb(69, 132, 168);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px black solid;
+
+}
